@@ -1,6 +1,6 @@
 # UBC CPSC 436V - D3 example templates
 
-d3-annotated-line-chart
+`D3 Annotated Line Chart`  [d3-annotated-line-chart](d3-annotated-line-chart)
 
 d3-bind-data-to-elements
 
