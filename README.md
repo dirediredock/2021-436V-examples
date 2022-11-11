@@ -1,4 +1,4 @@
-# 436V-examples-2020
+# UBC CPSC 436V - D3 example templates
 
 d3-annotated-line-chart
 
